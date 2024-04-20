@@ -1,6 +1,6 @@
 # APEX-5-stage-in-order-Pipeline-Simulator
 
-●	Build a C++ 5-stage comprehensive pipeline simulator implementing a cycle-by-cycle execution model with BTB.
+●	Build a C language 5-stage comprehensive pipeline simulator implementing a cycle-by-cycle execution model with BTB.
 
 ●	Supported the execution of 26 unique types of instructions via fetch, decode, execute, memory & writeback stages.
 
